@@ -1,4 +1,4 @@
-package com.inventoryapp.inventory.model;
+package com.inventoryapp.inventory.application.model;
 
 
 import jakarta.persistence.Entity;
