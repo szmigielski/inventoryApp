@@ -1,7 +1,7 @@
-package com.inventoryapp.inventory.service;
+package com.inventoryapp.inventory.application.service;
 
-import com.inventoryapp.inventory.model.Item;
-import com.inventoryapp.inventory.repository.ItemRepository;
+import com.inventoryapp.inventory.application.model.Item;
+import com.inventoryapp.inventory.application.repository.ItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

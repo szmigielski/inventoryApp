@@ -1,7 +1,7 @@
-package com.inventoryapp.inventory.controller;
+package com.inventoryapp.inventory.application.controller;
 
-import com.inventoryapp.inventory.model.Item;
-import com.inventoryapp.inventory.service.ItemService;
+import com.inventoryapp.inventory.application.model.Item;
+import com.inventoryapp.inventory.application.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
